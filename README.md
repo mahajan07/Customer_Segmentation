@@ -13,3 +13,4 @@
 * Understand the theory and intuition behind Principal Component Analysis (PCA) algorithm
 * Apply Principal Component Analysis (PCA) technique to perform dimensionality reduction and data visualization
 * Compile and fit unsupervised machine learning models such as PCA and K-Means to training data
+ 
