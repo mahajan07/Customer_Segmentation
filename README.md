@@ -1,5 +1,5 @@
 # Guided Project 2
-# Customer_Segmentation
+# Customer Segmentation using K-Means Clustering
  
 ## Learning Outcomes
 ### In this course, we are going to focus on the following learning objectives:
