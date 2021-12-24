@@ -1,4 +1,3 @@
-# Guided Project 2
 # Customer Segmentation using K-Means Clustering
  
 ## Learning Outcomes
