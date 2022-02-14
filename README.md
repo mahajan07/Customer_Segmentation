@@ -1,7 +1,6 @@
 # Customer Segmentation using K-Means Clustering
  
-## Learning Outcomes
-### In this course, we are going to focus on the following learning objectives:
+## Objectives:
 
 * Understand how to leverage the power of machine learning to transform marketing departments and perform customer segmentation
 * Apply Python libraries to import and visualize dataset images.
